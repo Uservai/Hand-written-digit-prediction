@@ -33,6 +33,8 @@ jupyter notebook HandwrittenDigitPrediction.ipynb
 4. Run all cells to train and evaluate the model.
 
 📸 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/e8c9a0f9-5f56-481b-be21-cc463b728efe)
 
 
